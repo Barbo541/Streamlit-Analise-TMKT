@@ -38,7 +38,7 @@ Este projeto é um **dashboard interativo** desenvolvido com **Streamlit**, que 
    ```bash
    streamlit run 28streamlit.py
    ```
-4. Acesse no navegador: `https://streamlit-analise-tmkt.onrender.com/`
+4. Acesse no navegador: `https://streamlit-analise-tmkt.onrender.com`
 
 ## 🌍 Deploy no Render
 O projeto está hospedado no **Render**. Para fazer o deploy:
